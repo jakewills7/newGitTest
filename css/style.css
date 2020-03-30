@@ -4,4 +4,7 @@ body{
 
 li{
     font-family:Arial, Helvetica, sans-serif;
+    list-style: none;
+    display: inline-flex;
+    
 }
